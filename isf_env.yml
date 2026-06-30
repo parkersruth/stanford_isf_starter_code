@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets
+  - jupyterlab
+  - matplotlib
+  - numpy=1.21
+  - pandas=1.5.0
+  - python=3.10.*
+  - scikit-learn
+  - scipy
+  - seaborn
+  - shap
+  - statsmodels
+  - tqdm
+  - zenodo_get
+  - opensim-org::opensim=4.4
