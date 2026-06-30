@@ -1,4 +1,5 @@
-If you don't already have conda on your system, install miniconda here: https://www.anaconda.com/docs/getting-started/miniconda/main
+Install the [(mini)conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) or [mamba](https://mamba.readthedocs.io/en/stable/installation/mamba-installation.html) Python environment manager.
+
 
 Install conda environment:
 
